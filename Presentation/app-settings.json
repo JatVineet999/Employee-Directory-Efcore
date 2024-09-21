@@ -1,0 +1,5 @@
+{
+  "ConnectionStrings": {
+    "EmployeeDatabase": "Data Source=10.0.0.27;Initial Catalog=Vineet_EmployeeDirectory_DB;Integrated Security=True;TrustServerCertificate=True"
+  }
+}
